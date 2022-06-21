@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <root>
+  <product>
+   <name>BOLT-TD-CPE-1</name>
+   <compress>0</compress>
+  </product>
+  <files>
+   <file>
+    <spath>B014_WEB.bin</spath>
+    <dpath>B014_WEB.bin</dpath>
+    <crc>3538011354</crc>
+    <digest>ab68230de91071780921af4558d23de1</digest>
+    <size>32485251</size>
+   </file>
+  </files>
+ </root>
